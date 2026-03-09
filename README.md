@@ -2,11 +2,6 @@
 
 Disciplina: Estruturas de Dados e Análise de Algoritmos  
 Professor: Alexandre de Oliveira  
-Aula: 03 – Notação Assintótica  
-Aluno: SEU NOME AQUI  
-
-Repositório GitHub: COLOQUE O LINK AQUI
-
 
 ## Descrição
 
